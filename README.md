@@ -39,5 +39,8 @@ Country: The country where the customer is located or where the transaction took
 2) Self-Organizing Maps (SOM)
 3) Hierarchial Clustering
 
+# Goal
+
+The goal of the customer segmentation project is to categorize customers into distinct groups based on their behavior, preferences, and transaction history. By leveraging machine learning clustering algorithms such as K-Means, Hierarchical Clustering, and Self-Organizing Maps (SOM), the project aims to identify meaningful segments within the customer base. This segmentation is crucial for tailoring marketing strategies, optimizing product recommendations, and enhancing overall customer experience. 
 
 
