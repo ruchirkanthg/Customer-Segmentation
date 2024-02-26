@@ -16,6 +16,7 @@ Self-Organizing Maps (SOM): An unsupervised learning algorithm that maps high-di
 
 
 # Data
+https://www.kaggle.com/code/sayamkumar/online-retail-customer-segmentation
 
 InvoiceNo: A unique identifier for each transaction or invoice.
 
